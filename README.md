@@ -2,4 +2,21 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9">via GIPHY</a></p>
+# Hi there! 👋
+
+I'm Glen Muthoka, a Electrical and Electronice Eng. Student with a passion for Comp Sci and Hardware Development. 
+
+Welcome to my GitHub profile!
+
+## About Me
+
+- 🌱 Currently learning Electrical and Electronics Engineering
+- 👯 Looking to collaborate on anything
+
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/yourname/)
+- [Twitter](https://twitter.com/yourusername)
+
+Thanks for stopping by!
