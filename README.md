@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/yourname/)
-- [Twitter](https://twitter.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/glenmuthoka/)
+- [Twitter](https://twitter.com/bananz0)
 
 Thanks for stopping by!
