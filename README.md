@@ -4,7 +4,6 @@
 
 # Hi there! 👋
 
-## About Me
 
 - 🌱 Currently learning Electrical and Electronics Engineering
 
